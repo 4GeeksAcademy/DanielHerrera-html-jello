@@ -1,0 +1,58 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.postcard {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
+
+.postheader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+}
+
+.iconheader {
+    margin-right: 10px;
+    font-size:40px;
+}
+
+.textheader p {
+    margin: 0;
+}
+
+.headermenu {
+    font-size:40px;
+}
+
+.postimage img {
+    width: 100%;
+    display: block;
+}
+.postbody {
+    padding: 10px;
+}
+
+
+.menuicons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size:40px;
+}
+
+.postbody p {
+    margin: 0 0 10px;
+}
